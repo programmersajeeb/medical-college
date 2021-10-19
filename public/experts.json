@@ -1,32 +1,32 @@
 [
     {
         "id": 1,
-        "name": "Dr.Khondokar",
-        "img": "https://i.ibb.co/LQnnt5v/Portrait-of-successful-mid-adult-doctor-with-crossed-arms-Caucasian-general-practitioner-wearing-lab.jpg",
+        "name": "Dr. SZ Atique",
+        "img": "https://i.ibb.co/S7MmLbK/doctor1.jpg",
         "description": "Dentist Expert, M.B.B., F.R.C.S, Professor at Squre hospital care"
     },
     {
         "id": 2,
-        "name": "Dr.Araddha",
-        "img": "https://i.ibb.co/HrP0Br7/Doctor-at-work-in-the-hospital.jpg",
+        "name": "Dr. Kazi Habibur Rahman",
+        "img": "https://i.ibb.co/dm2QJyK/doctore2.jpg",
         "description": "Dentist Expert, M.B.B., F.R.C.S, Professor at Squre hospital care"
     },
     {
         "id": 3,
-        "name": "Dr.Krisno",
-        "img": "https://i.ibb.co/Jvz7qQ8/Portrait-of-a-smiling-male-doctor-dressed-in-uniform-with-stethoscope-standing-and-pointing-finger-a.jpg",
+        "name": "Dr. Ruhul Quddus",
+        "img": "https://i.ibb.co/qjPQD4j/doctore3.jpg",
         "description": "Dentist Expert, M.B.B., F.R.C.S, Professor at Squre hospital care"
     },
     {
         "id": 4,
-        "name": "Dr.Kamal",
-        "img": "https://i.ibb.co/XzVMXyn/Portrait-of-a-smiling-handsome-male-doctor-dressed-in-uniform-with-stethoscope-showing-thumbs-up-ges.jpg",
+        "name": "Dr. Md. Monoar Hossain",
+        "img": "https://i.ibb.co/yRCJcmq/doctore4.jpg",
         "description": "Dentist Expert, M.B.B., F.R.C.S, Professor at Squre hospital care"
     },
     {
         "id": 5,
-        "name": "Dr.Kader",
-        "img": "https://i.ibb.co/W2HykqF/Healthcare-workers-medicine-covid-19-and-pandemic-self-quarantine-concept-Smiling-attractive-doctor.jpg",
+        "name": "Dr. A H S M Kamruzzaman",
+        "img": "https://i.ibb.co/BV0dDc7/doctor5.jpg",
         "description": "Dentist Expert, M.B.B., F.R.C.S, Professor at Squre hospital care"
     }
 ]

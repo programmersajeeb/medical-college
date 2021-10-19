@@ -3,13 +3,14 @@ import { Button, Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { HashLink } from 'react-router-hash-link';
 import useAuth from '../../Hooks/useAuth';
+import './Header.css';
 
 const Header = () => {
     const { user, logOut } = useAuth();
     console.log(user)
     return (
         <>
-            <Navbar bg="dark" variant="dark" sticky='top' collapseOnSelect expand="lg">
+            <Navbar className="header-bg" variant="dark" sticky='top' collapseOnSelect expand="lg">
                 <Container>
                     <Navbar.Brand href="#home">Satkhira Medical</Navbar.Brand>
                     <Navbar.Toggle />

@@ -1,12 +1,13 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
+import './Footer.css'
 
 const Footer = () => {
     return (
         <div>
 
             <div>
-                <Navbar bg="dark" variant="dark" fixed="bottom" collapseOnSelect expand="lg">
+                <Navbar className="footer-bg" variant="dark" fixed="bottom" collapseOnSelect expand="lg">
                     <Container>
                         {/* <Navbar.Toggle /> */}
                         <div className='text-white pt-3 mx-5'><p><small>all 	&copy; righit reserved by developer end</small></p></div>
