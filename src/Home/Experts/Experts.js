@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Expert from '../Expert/Expert';
+import './Experts.css'
 
 const Experts = () => {
     const [experts, setExperts] = useState([]);
@@ -9,7 +10,7 @@ const Experts = () => {
             .then(data => setExperts(data))
     }, [])
     return (
-        <div className='container mb-5'>
+        <div className='container special-area'>
             <h2 className='my-5' id='experts'>Special Doctors</h2>
             <div className='row'>
                 {

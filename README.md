@@ -1,6 +1,17 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://satkhira-medical-collage.web.app/).
+
+=> Satkhira Medical College Anyone can know about this medical from this website.
+
+=> It is very easy to get an idea about all the doctors of this medical and also get an idea about their treatment.
+
+=> Through this website, every doctor of this medical college will be able to get an idea about the medical system.
+
+=> And through this website, you will be able to know about the services of every doctor and receive services very easily.
+
+=> This website will be very helpful to know about Satkhira Medical College.
+
 
 ## Available Scripts
 

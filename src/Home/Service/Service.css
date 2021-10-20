@@ -1,0 +1,15 @@
+.service-card{
+  background-color: #FFFFFF;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+  border-radius: 5px;
+}
+.service-img{
+  border-radius: 5px 5px 0 0;
+}
+.service-btn{
+  margin-bottom: 10px;
+}

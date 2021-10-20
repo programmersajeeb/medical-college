@@ -11,9 +11,9 @@ const useFirebase = () => {
     const signInUsingGoogle = () => {
         const googleProvider = new GoogleAuthProvider();
         signInWithPopup(auth, googleProvider)
-            .then(result => {
-                setUser(result.user)
-            })
+            // .then(result => {
+            //     setUser(result.user)
+            // })
     }
 
     useEffect(() => {

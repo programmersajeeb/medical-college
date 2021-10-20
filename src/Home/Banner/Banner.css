@@ -1,3 +1,15 @@
+.banner-bg{
+  background-color: #253b4745;
+  border-color: #1f475c !important;
+}
 .banner-img{
   height: 75vh;
+}
+.banner-title{
+  font-size: 36px;
+  color: #0a4463;
+}
+.banner-discription{
+  font-size: 22px;
+  color: #0a4463;
 }
